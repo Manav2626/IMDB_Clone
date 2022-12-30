@@ -1,0 +1,23 @@
+.title{
+    margin-top: 95px;
+    margin-left: 115px;
+    font-size: 47px;
+    text-decoration: underline;
+}
+.container{
+    display: flex;
+    align-items: center;
+    /* margin-top: 200px; */
+}
+
+.details{
+    margin-left: 65px;
+}
+.img{
+    width: 40px;
+    height: 40px;
+}
+.mimg{
+    width: 744px;
+    height: 421px;
+}
